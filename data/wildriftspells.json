@@ -1,0 +1,20 @@
+[
+    {
+        "id": "13e5a25d-0de7-4481-bf75-381c013e73b9",
+        "spellName": "Exhaust",
+        "url": "/uploads/league-of-legends-wild-rift/images/summoner-spells/exhaust.jpg",
+        "description": [
+            "Exhausts target enemy champion, reducing their movement speed by 20% and their damage dealt by 40% for 2.5 seconds."
+        ],
+        "cooldown": "105"
+    },
+    {
+        "id": "dd6ff556-3b07-4be0-bd1f-c2dd9c9ce1dd",
+        "spellName": "Flash",
+        "url": "/uploads/league-of-legends-wild-rift/images/summoner-spells/flash.jpg",
+        "description": [
+            "Teleport a short distance forward or towards the aimed direction."
+        ],
+        "cooldown": "150"
+    }
+]
